@@ -52,3 +52,8 @@ No   | Project | Status | Operasi System
 14 | Create Password hash | Active 
 15 | Text To speech | Active 
 16 | Convert cookie to token | Active
+
+<p align="center"> Follow by
+<a href="https://www.facebook.com/may.quen.7547">@Author</a>
+</p>
+<p align="center">Thanxs To AllMember<a href="https://www.facebook.com/1454241774848282">@Karawang Cyber Team</a></p>
