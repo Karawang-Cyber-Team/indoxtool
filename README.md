@@ -15,9 +15,20 @@ A collection of simple python mini projects to enhance your Python skills.
 
 If you want to learn about python, visit [here.](https://github.com/Python-World/Py-Resources)
 
-If you are new to Github and open source then, visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
-
-
+### Instalasi Module
+##### Install the module to run this tool
+- pip install hashlib
+- pip install rich
+- pip install requests
+- pip install pytube
+- pip install bs4
+- pip install pynotifier
+###### If everything has been installed, the next process you must first clone from github to your terminal, Just copy the link below and paste it into your terminal and then enter
+```
+https://github.com/TrueFalseID/indoxtool
+```
+###### Maybe that's all, if there's a mistake please forgive me, I'm just a young man who is thirsty for knowledge. Thank you so much for using this tool🙏
+###### Don't forget to give a star and follow my github :)
 ## Featurs ✨
 
 No   | Project | Status | Operasi System
