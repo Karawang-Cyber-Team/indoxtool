@@ -26,6 +26,10 @@ If you want to learn about python, visit [here.](https://github.com/Python-World
 ```
 https://github.com/TrueFalseID/indoxtool
 ```
+##### Run The Tool
+- cd indoxtool
+- python main.py or python3 main.py
+
 ###### Maybe that's all, if there's a mistake please forgive me, I'm just a young man who is thirsty for knowledge. Thank you so much for using this tool🙏
 ###### Don't forget to give a star and follow my github :)
 ## Featurs ✨
