@@ -15,7 +15,6 @@ A collection of simple python mini projects to enhance your Python skills.
 
 If you want to learn about python, visit [here.](https://github.com/Python-World/Py-Resources)
 
-### Instalasi Module
 ##### Install the module to run this tool
 - pip install hashlib
 - pip install rich
