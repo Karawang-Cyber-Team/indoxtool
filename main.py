@@ -1,4 +1,9 @@
 #!/usr/bin/python
+# OPEN SOURCE! 
+# CODING BY : True False
+# INGIN BEKERJA SAMA MEMBUAT PROJECT PYTHON? SILAKAN WA SAYA DI BAWAH INI!
+# WA : 085810753481
+# FB : https://www.facebook.com/may.quen.7547
 # importing socket library
 import socket, psutil
 import os, time, sys, random, string, collections, shutil, argparse, subprocess, requests, re
