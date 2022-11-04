@@ -24,7 +24,7 @@ If you want to learn about python, visit [here.](https://github.com/Python-World
 - pip install pynotifier
 ###### If everything has been installed, the next process you must first clone from github to your terminal, Just copy the link below and paste it into your terminal and then enter
 ```
-https://github.com/TrueFalseID/indoxtool
+https://github.com/Karawang-Cyber-Team/indoxtool
 ```
 ##### Run The Tool
 - cd indoxtool
